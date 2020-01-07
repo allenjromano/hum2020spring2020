@@ -1,4 +1,4 @@
-baseURL = "http://allenjromano.github.io/hum2020spring2020/"
+baseURL = "https://allenjromano.github.io/hum2020spring2020/"
 languageCode = "en-us"
 title = "Hum 2020, Spring 2020"
 theme = "book"
