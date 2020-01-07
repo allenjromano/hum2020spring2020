@@ -27,7 +27,7 @@ Vanessa Johnson
 
 Omar Iqbal
 
-
+Jesse Powell
 
 ### Course Materials
 
