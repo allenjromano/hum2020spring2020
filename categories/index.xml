@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hum 2020, Spring 2020</title>
+    <link>http://allenjromano.github.io/hum2020spring2020/categories/</link>
+    <description>Recent content in Categories on Hum 2020, Spring 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://allenjromano.github.io/hum2020spring2020/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://allenjromano.github.io/hum2020spring2020/categories/Development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://allenjromano.github.io/hum2020spring2020/categories/Development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://allenjromano.github.io/hum2020spring2020/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://allenjromano.github.io/hum2020spring2020/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

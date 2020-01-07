@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Hum 2020, Spring 2020</title>
+    <link>http://allenjromano.github.io/hum2020spring2020/docs/</link>
+    <description>Recent content in Welcome on Hum 2020, Spring 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://allenjromano.github.io/hum2020spring2020/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://allenjromano.github.io/hum2020spring2020/docs/course/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://allenjromano.github.io/hum2020spring2020/docs/course/syllabus/</guid>
+      <description>Hum 2020 Spring 2020, T/Th 2:00-3:15 PM, Diffenbaugh 128 Contact Prof. Allen J. Romano, Program in Interdisciplinary Humanities aromano@fsu.edu / Diffenbaugh 434 / Office hours: Mondays @1 PM and by appointment
+Course Overview This course looks at the big questions of what it means to be human through materials ranging from the paleolithic through modernity. The course includes regular assignments that require students to read, write, and interpret the materials of the past, including but not limited to literature, art, music, performance, and ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

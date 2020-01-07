@@ -1,0 +1,5 @@
+'use strict';(function(){const input=document.querySelector('#book-search-input');const results=document.querySelector('#book-search-results');input.addEventListener('focus',init);input.addEventListener('keyup',search);function init(){input.removeEventListener('focus',init);input.required=true;loadScript('/hum2020spring2020/flexsearch.min.js');loadScript('/hum2020spring2020/en.search-data.min.e84b56e3cbc1489ed4e67881583d9a982075baff4eacb0ac64cd3dc94038f14f.js',function(){input.required=false;search();});}
+function search(){while(results.firstChild){results.removeChild(results.firstChild);}
+if(!input.value){return;}
+const searchHits=window.bookSearchIndex.search(input.value,10);searchHits.forEach(function(page){const li=document.createElement('li'),a=li.appendChild(document.createElement('a'));a.href=page.href;a.textContent=page.title;results.appendChild(li);});}
+function loadScript(src,callback){const script=document.createElement('script');script.defer=true;script.async=false;script.src=src;script.onload=callback;document.head.appendChild(script);}})();
